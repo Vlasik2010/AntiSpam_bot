@@ -82,10 +82,10 @@ bot.token=ВАШ_ТОКЕН
 bot.username=ВАШ_ЮЗЕРНЕЙМ
 ```
 
-## 🧑‍💻 Разработчики
-👤 **Ваше Имя**  
-🔗 [GitHub](https://github.com/your-username)  
-🔗 [Telegram](https://t.me/your-telegram)
+## 📞 Контакты
+
+📧 **Email:** [sintsev.vlas15@icloud.com](mailto\:sintsev.vlas15@icloud.com) 💬 **Telegram:** [@Vlasik_01](https://t.me/Vlasik_01)
+
 
 ## 📜 Лицензия
 Этот проект лицензирован под MIT License - смотрите [LICENSE](LICENSE) для деталей.

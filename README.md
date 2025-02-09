@@ -1,9 +1,9 @@
 # 🛡️ AntiSpamBot
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/AntiSpamBot?color=blue&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/your-username/AntiSpamBot?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/AntiSpamBot?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/AntiSpamBot?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Vlasik2010/AntiSpam_bot?color=blue&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Vlasik2010/AntiSpam_bot?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Vlasik2010/AntiSpam_bot?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Vlasik2010/AntiSpam_bot?style=for-the-badge)
 
 ## 🚀 О проекте
 **AntiSpamBot** — это мощный Telegram-бот для защиты чатов от спама. Он использует передовые алгоритмы анализа текста, такие как нормализация, фуззи-сравнение и анализ повторяющихся сообщений, чтобы выявлять и удалять подозрительные сообщения.

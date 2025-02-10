@@ -70,8 +70,8 @@
 
 ### 📥 Клонирование проекта:
 ```bash
-  git clone https://github.com/your-username/AntiSpamBot.git
-  cd AntiSpamBot
+  git clone https://github.com/Vlasik2010/AntiSpam_bot.git
+  cd AntiSpam_bot
 ```
 
 ### 🔧 Сборка проекта:
